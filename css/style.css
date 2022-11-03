@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap'); 
+
+body{
+	font-family: 'Raleway', sans-serif;
+	
+}	
+	
+header{
+    background-color: #FFFFFF;
+}
+
+
+#hero{
+	background-color: #FFFFFF;
+	
+	
+	
+}
+
+#hero h4{
+background-color: #FFDA79;
+	
+}
+
+#hero h4{
+
+}
+
+.btn-contacto{
+	margin-top: 65px;
+	font-size: 18px;
+	background-color:#8E8E8E;
+	color: #000;
+	padding: 10px 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 1px;
+	
+}
+#subscribe{
+font-family: 'Raleway', sans-serif;	
+padding: 5% 0;
+background-color: #d6baf5;
+}
+
+#subscribe h3{
+font-size: 50px;
+}
+
+footer{
+	padding: 20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
